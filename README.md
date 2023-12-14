@@ -18,7 +18,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreDataAnalytics&show_icons=true&theme=radical)](https://github.com/AndreDataAnalytics)
 
 ## 🤝 Let's Connect
 
