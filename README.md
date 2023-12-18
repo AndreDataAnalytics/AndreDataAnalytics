@@ -29,8 +29,4 @@ Here are some of the technologies and tools I work with:
 
 You can reach me at andre.miguel.a.torres@gmail.com.
 
-## ✨ Acknowledgements
-
-Thank you for visiting my profile! Feel free to explore my projects and leave a ⭐️ if you find something interesting.
-
--->
+## ✨ Thank you for visiting my profile! Feel free to explore my projects and leave a ⭐️ if you find something interesting.
